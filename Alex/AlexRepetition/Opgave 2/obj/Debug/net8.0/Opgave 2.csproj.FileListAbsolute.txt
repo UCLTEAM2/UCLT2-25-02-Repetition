@@ -1,0 +1,15 @@
+C:\Users\Alex-\Code\UCLTEAM2\UCLT2-25-02-Repetition\Alex\AlexRepetition\Opgave 2\bin\Debug\net8.0\Opgave 2.exe
+C:\Users\Alex-\Code\UCLTEAM2\UCLT2-25-02-Repetition\Alex\AlexRepetition\Opgave 2\bin\Debug\net8.0\Opgave 2.deps.json
+C:\Users\Alex-\Code\UCLTEAM2\UCLT2-25-02-Repetition\Alex\AlexRepetition\Opgave 2\bin\Debug\net8.0\Opgave 2.runtimeconfig.json
+C:\Users\Alex-\Code\UCLTEAM2\UCLT2-25-02-Repetition\Alex\AlexRepetition\Opgave 2\bin\Debug\net8.0\Opgave 2.dll
+C:\Users\Alex-\Code\UCLTEAM2\UCLT2-25-02-Repetition\Alex\AlexRepetition\Opgave 2\bin\Debug\net8.0\Opgave 2.pdb
+C:\Users\Alex-\Code\UCLTEAM2\UCLT2-25-02-Repetition\Alex\AlexRepetition\Opgave 2\obj\Debug\net8.0\Opgave 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex-\Code\UCLTEAM2\UCLT2-25-02-Repetition\Alex\AlexRepetition\Opgave 2\obj\Debug\net8.0\Opgave 2.AssemblyInfoInputs.cache
+C:\Users\Alex-\Code\UCLTEAM2\UCLT2-25-02-Repetition\Alex\AlexRepetition\Opgave 2\obj\Debug\net8.0\Opgave 2.AssemblyInfo.cs
+C:\Users\Alex-\Code\UCLTEAM2\UCLT2-25-02-Repetition\Alex\AlexRepetition\Opgave 2\obj\Debug\net8.0\Opgave 2.csproj.CoreCompileInputs.cache
+C:\Users\Alex-\Code\UCLTEAM2\UCLT2-25-02-Repetition\Alex\AlexRepetition\Opgave 2\obj\Debug\net8.0\Opgave 2.sourcelink.json
+C:\Users\Alex-\Code\UCLTEAM2\UCLT2-25-02-Repetition\Alex\AlexRepetition\Opgave 2\obj\Debug\net8.0\Opgave 2.dll
+C:\Users\Alex-\Code\UCLTEAM2\UCLT2-25-02-Repetition\Alex\AlexRepetition\Opgave 2\obj\Debug\net8.0\refint\Opgave 2.dll
+C:\Users\Alex-\Code\UCLTEAM2\UCLT2-25-02-Repetition\Alex\AlexRepetition\Opgave 2\obj\Debug\net8.0\Opgave 2.pdb
+C:\Users\Alex-\Code\UCLTEAM2\UCLT2-25-02-Repetition\Alex\AlexRepetition\Opgave 2\obj\Debug\net8.0\Opgave 2.genruntimeconfig.cache
+C:\Users\Alex-\Code\UCLTEAM2\UCLT2-25-02-Repetition\Alex\AlexRepetition\Opgave 2\obj\Debug\net8.0\ref\Opgave 2.dll
