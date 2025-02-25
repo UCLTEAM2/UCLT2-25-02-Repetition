@@ -3,44 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Alex-\\Code\\UCLTEAM2\\UCLT2-25-02-Repetition\\Alex\\AlexRepetition\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{44284B21-B9FA-45DF-A25D-B60678A1DE13}|Opgave 9\\Opgave 9.csproj|c:\\users\\alex-\\code\\uclteam2\\uclt2-25-02-repetition\\alex\\alexrepetition\\opgave 9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44284B21-B9FA-45DF-A25D-B60678A1DE13}|Opgave 9\\Opgave 9.csproj|solutionrelative:opgave 9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8CEC9C17-6DCC-4901-A7DF-C2BB3C5A4B0E}|Opgave 19\\Opgave 19.csproj|c:\\users\\alex-\\code\\uclteam2\\uclt2-25-02-repetition\\alex\\alexrepetition\\opgave 19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEC9C17-6DCC-4901-A7DF-C2BB3C5A4B0E}|Opgave 19\\Opgave 19.csproj|solutionrelative:opgave 19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F4D0886-3F14-4587-9B2D-916606C6D59A}|Opgave 8\\Opgave 8.csproj|c:\\users\\alex-\\code\\uclteam2\\uclt2-25-02-repetition\\alex\\alexrepetition\\opgave 8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F4D0886-3F14-4587-9B2D-916606C6D59A}|Opgave 8\\Opgave 8.csproj|solutionrelative:opgave 8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3080BEF-2660-4188-BCDD-2120528AFBD0}|Opgave 18\\Opgave 18.csproj|c:\\users\\alex-\\code\\uclteam2\\uclt2-25-02-repetition\\alex\\alexrepetition\\opgave 18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3080BEF-2660-4188-BCDD-2120528AFBD0}|Opgave 18\\Opgave 18.csproj|solutionrelative:opgave 18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67A7E61B-0D5E-4FFE-A7B3-D2227C644BB2}|Opgave 6\\Opgave 6.csproj|c:\\users\\alex-\\code\\uclteam2\\uclt2-25-02-repetition\\alex\\alexrepetition\\opgave 6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67A7E61B-0D5E-4FFE-A7B3-D2227C644BB2}|Opgave 6\\Opgave 6.csproj|solutionrelative:opgave 6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D42AD882-F5AB-43A0-9BD4-33FC2C9FE7F1}|Opgave 17\\Opgave 17.csproj|c:\\users\\alex-\\code\\uclteam2\\uclt2-25-02-repetition\\alex\\alexrepetition\\opgave 17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D42AD882-F5AB-43A0-9BD4-33FC2C9FE7F1}|Opgave 17\\Opgave 17.csproj|solutionrelative:opgave 17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1F203A7-E59B-4913-A777-C8D98F2E50F4}|Opgave 4\\Opgave 4.csproj|c:\\users\\alex-\\code\\uclteam2\\uclt2-25-02-repetition\\alex\\alexrepetition\\opgave 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1F203A7-E59B-4913-A777-C8D98F2E50F4}|Opgave 4\\Opgave 4.csproj|solutionrelative:opgave 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6751C5E-D58D-4E2C-AAC9-097889888AC5}|Opgave 16\\Opgave 16.csproj|c:\\users\\alex-\\code\\uclteam2\\uclt2-25-02-repetition\\alex\\alexrepetition\\opgave 16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6751C5E-D58D-4E2C-AAC9-097889888AC5}|Opgave 16\\Opgave 16.csproj|solutionrelative:opgave 16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14F00123-70A6-41C2-9503-62B265E7E22F}|Opgave 5\\Opgave 5.csproj|c:\\users\\alex-\\code\\uclteam2\\uclt2-25-02-repetition\\alex\\alexrepetition\\opgave 5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14F00123-70A6-41C2-9503-62B265E7E22F}|Opgave 5\\Opgave 5.csproj|solutionrelative:opgave 5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F04A7DE0-3766-4A04-9C4A-A037F8E492F2}|Opgave 15\\Opgave 15.csproj|c:\\users\\alex-\\code\\uclteam2\\uclt2-25-02-repetition\\alex\\alexrepetition\\opgave 15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F04A7DE0-3766-4A04-9C4A-A037F8E492F2}|Opgave 15\\Opgave 15.csproj|solutionrelative:opgave 15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E431D5DA-E50C-4BBF-B9B7-8F0EE47E6D3E}|Opgave 7\\Opgave 7.csproj|c:\\users\\alex-\\code\\uclteam2\\uclt2-25-02-repetition\\alex\\alexrepetition\\opgave 7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E431D5DA-E50C-4BBF-B9B7-8F0EE47E6D3E}|Opgave 7\\Opgave 7.csproj|solutionrelative:opgave 7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97F3584D-D0A3-48B2-8DD7-67D9443ED026}|Opgave 14\\Opgave 14.csproj|c:\\users\\alex-\\code\\uclteam2\\uclt2-25-02-repetition\\alex\\alexrepetition\\opgave 14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F3584D-D0A3-48B2-8DD7-67D9443ED026}|Opgave 14\\Opgave 14.csproj|solutionrelative:opgave 14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20D8AA07-D736-4B18-833F-3663381661BA}|Opgave 3\\Opgave 3.csproj|c:\\users\\alex-\\code\\uclteam2\\uclt2-25-02-repetition\\alex\\alexrepetition\\opgave 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20D8AA07-D736-4B18-833F-3663381661BA}|Opgave 3\\Opgave 3.csproj|solutionrelative:opgave 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A968BC1D-73AB-4115-91C8-344B928652BA}|Opgave 2\\Opgave 2.csproj|c:\\users\\alex-\\code\\uclteam2\\uclt2-25-02-repetition\\alex\\alexrepetition\\opgave 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A968BC1D-73AB-4115-91C8-344B928652BA}|Opgave 2\\Opgave 2.csproj|solutionrelative:opgave 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E784A700-5F35-4EF1-A59E-5C53D84E800C}|Opgave 1\\Opgave 1.csproj|c:\\users\\alex-\\code\\uclteam2\\uclt2-25-02-repetition\\alex\\alexrepetition\\opgave 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E784A700-5F35-4EF1-A59E-5C53D84E800C}|Opgave 1\\Opgave 1.csproj|solutionrelative:opgave 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D34CC0F-9D15-4A3B-8589-D9234E3C57AB}|AlexRepetition\\AlexRepetition.csproj|c:\\users\\alex-\\code\\uclteam2\\uclt2-25-02-repetition\\alex\\alexrepetition\\alexrepetition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D34CC0F-9D15-4A3B-8589-D9234E3C57AB}|AlexRepetition\\AlexRepetition.csproj|solutionrelative:alexrepetition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1C51269-21D3-488C-BBC3-354B090EDBAE}|Opgave 13\\Opgave 13.csproj|c:\\users\\alex-\\code\\uclteam2\\uclt2-25-02-repetition\\alex\\alexrepetition\\opgave 13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1C51269-21D3-488C-BBC3-354B090EDBAE}|Opgave 13\\Opgave 13.csproj|solutionrelative:opgave 13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -64,130 +52,91 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Alex-\\Code\\UCLTEAM2\\UCLT2-25-02-Repetition\\Alex\\AlexRepetition\\Opgave 9\\Program.cs",
-              "RelativeDocumentMoniker": "Opgave 9\\Program.cs",
-              "ToolTip": "C:\\Users\\Alex-\\Code\\UCLTEAM2\\UCLT2-25-02-Repetition\\Alex\\AlexRepetition\\Opgave 9\\Program.cs*",
-              "RelativeToolTip": "Opgave 9\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Alex-\\Code\\UCLTEAM2\\UCLT2-25-02-Repetition\\Alex\\AlexRepetition\\Opgave 19\\Program.cs",
+              "RelativeDocumentMoniker": "Opgave 19\\Program.cs",
+              "ToolTip": "C:\\Users\\Alex-\\Code\\UCLTEAM2\\UCLT2-25-02-Repetition\\Alex\\AlexRepetition\\Opgave 19\\Program.cs",
+              "RelativeToolTip": "Opgave 19\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T10:37:26.825Z",
+              "WhenOpened": "2025-02-25T13:27:48.627Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Alex-\\Code\\UCLTEAM2\\UCLT2-25-02-Repetition\\Alex\\AlexRepetition\\Opgave 8\\Program.cs",
-              "RelativeDocumentMoniker": "Opgave 8\\Program.cs",
-              "ToolTip": "C:\\Users\\Alex-\\Code\\UCLTEAM2\\UCLT2-25-02-Repetition\\Alex\\AlexRepetition\\Opgave 8\\Program.cs",
-              "RelativeToolTip": "Opgave 8\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAgAAAAZAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Alex-\\Code\\UCLTEAM2\\UCLT2-25-02-Repetition\\Alex\\AlexRepetition\\Opgave 18\\Program.cs",
+              "RelativeDocumentMoniker": "Opgave 18\\Program.cs",
+              "ToolTip": "C:\\Users\\Alex-\\Code\\UCLTEAM2\\UCLT2-25-02-Repetition\\Alex\\AlexRepetition\\Opgave 18\\Program.cs",
+              "RelativeToolTip": "Opgave 18\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T10:25:40.283Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Alex-\\Code\\UCLTEAM2\\UCLT2-25-02-Repetition\\Alex\\AlexRepetition\\Opgave 7\\Program.cs",
-              "RelativeDocumentMoniker": "Opgave 7\\Program.cs",
-              "ToolTip": "C:\\Users\\Alex-\\Code\\UCLTEAM2\\UCLT2-25-02-Repetition\\Alex\\AlexRepetition\\Opgave 7\\Program.cs",
-              "RelativeToolTip": "Opgave 7\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T10:17:38.501Z",
+              "WhenOpened": "2025-02-25T13:18:48.693Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Alex-\\Code\\UCLTEAM2\\UCLT2-25-02-Repetition\\Alex\\AlexRepetition\\Opgave 6\\Program.cs",
-              "RelativeDocumentMoniker": "Opgave 6\\Program.cs",
-              "ToolTip": "C:\\Users\\Alex-\\Code\\UCLTEAM2\\UCLT2-25-02-Repetition\\Alex\\AlexRepetition\\Opgave 6\\Program.cs",
-              "RelativeToolTip": "Opgave 6\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Alex-\\Code\\UCLTEAM2\\UCLT2-25-02-Repetition\\Alex\\AlexRepetition\\Opgave 17\\Program.cs",
+              "RelativeDocumentMoniker": "Opgave 17\\Program.cs",
+              "ToolTip": "C:\\Users\\Alex-\\Code\\UCLTEAM2\\UCLT2-25-02-Repetition\\Alex\\AlexRepetition\\Opgave 17\\Program.cs",
+              "RelativeToolTip": "Opgave 17\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T10:09:50.842Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Alex-\\Code\\UCLTEAM2\\UCLT2-25-02-Repetition\\Alex\\AlexRepetition\\Opgave 5\\Program.cs",
-              "RelativeDocumentMoniker": "Opgave 5\\Program.cs",
-              "ToolTip": "C:\\Users\\Alex-\\Code\\UCLTEAM2\\UCLT2-25-02-Repetition\\Alex\\AlexRepetition\\Opgave 5\\Program.cs",
-              "RelativeToolTip": "Opgave 5\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T09:50:29.279Z",
+              "WhenOpened": "2025-02-25T13:08:27.943Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Alex-\\Code\\UCLTEAM2\\UCLT2-25-02-Repetition\\Alex\\AlexRepetition\\Opgave 4\\Program.cs",
-              "RelativeDocumentMoniker": "Opgave 4\\Program.cs",
-              "ToolTip": "C:\\Users\\Alex-\\Code\\UCLTEAM2\\UCLT2-25-02-Repetition\\Alex\\AlexRepetition\\Opgave 4\\Program.cs",
-              "RelativeToolTip": "Opgave 4\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Alex-\\Code\\UCLTEAM2\\UCLT2-25-02-Repetition\\Alex\\AlexRepetition\\Opgave 16\\Program.cs",
+              "RelativeDocumentMoniker": "Opgave 16\\Program.cs",
+              "ToolTip": "C:\\Users\\Alex-\\Code\\UCLTEAM2\\UCLT2-25-02-Repetition\\Alex\\AlexRepetition\\Opgave 16\\Program.cs",
+              "RelativeToolTip": "Opgave 16\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBoAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T08:51:35.315Z",
+              "WhenOpened": "2025-02-25T12:33:21.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alex-\\Code\\UCLTEAM2\\UCLT2-25-02-Repetition\\Alex\\AlexRepetition\\Opgave 15\\Program.cs",
+              "RelativeDocumentMoniker": "Opgave 15\\Program.cs",
+              "ToolTip": "C:\\Users\\Alex-\\Code\\UCLTEAM2\\UCLT2-25-02-Repetition\\Alex\\AlexRepetition\\Opgave 15\\Program.cs",
+              "RelativeToolTip": "Opgave 15\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T12:17:39.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alex-\\Code\\UCLTEAM2\\UCLT2-25-02-Repetition\\Alex\\AlexRepetition\\Opgave 14\\Program.cs",
+              "RelativeDocumentMoniker": "Opgave 14\\Program.cs",
+              "ToolTip": "C:\\Users\\Alex-\\Code\\UCLTEAM2\\UCLT2-25-02-Repetition\\Alex\\AlexRepetition\\Opgave 14\\Program.cs",
+              "RelativeToolTip": "Opgave 14\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T12:16:14.106Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Alex-\\Code\\UCLTEAM2\\UCLT2-25-02-Repetition\\Alex\\AlexRepetition\\Opgave 3\\Program.cs",
-              "RelativeDocumentMoniker": "Opgave 3\\Program.cs",
-              "ToolTip": "C:\\Users\\Alex-\\Code\\UCLTEAM2\\UCLT2-25-02-Repetition\\Alex\\AlexRepetition\\Opgave 3\\Program.cs",
-              "RelativeToolTip": "Opgave 3\\Program.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwC8AAAAUAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Alex-\\Code\\UCLTEAM2\\UCLT2-25-02-Repetition\\Alex\\AlexRepetition\\Opgave 13\\Program.cs",
+              "RelativeDocumentMoniker": "Opgave 13\\Program.cs",
+              "ToolTip": "C:\\Users\\Alex-\\Code\\UCLTEAM2\\UCLT2-25-02-Repetition\\Alex\\AlexRepetition\\Opgave 13\\Program.cs",
+              "RelativeToolTip": "Opgave 13\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T08:50:10.298Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Alex-\\Code\\UCLTEAM2\\UCLT2-25-02-Repetition\\Alex\\AlexRepetition\\Opgave 2\\Program.cs",
-              "RelativeDocumentMoniker": "Opgave 2\\Program.cs",
-              "ToolTip": "C:\\Users\\Alex-\\Code\\UCLTEAM2\\UCLT2-25-02-Repetition\\Alex\\AlexRepetition\\Opgave 2\\Program.cs",
-              "RelativeToolTip": "Opgave 2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T08:49:04.297Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Alex-\\Code\\UCLTEAM2\\UCLT2-25-02-Repetition\\Alex\\AlexRepetition\\Opgave 1\\Program.cs",
-              "RelativeDocumentMoniker": "Opgave 1\\Program.cs",
-              "ToolTip": "C:\\Users\\Alex-\\Code\\UCLTEAM2\\UCLT2-25-02-Repetition\\Alex\\AlexRepetition\\Opgave 1\\Program.cs",
-              "RelativeToolTip": "Opgave 1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T08:48:22.704Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Alex-\\Code\\UCLTEAM2\\UCLT2-25-02-Repetition\\Alex\\AlexRepetition\\AlexRepetition\\Program.cs",
-              "RelativeDocumentMoniker": "AlexRepetition\\Program.cs",
-              "ToolTip": "C:\\Users\\Alex-\\Code\\UCLTEAM2\\UCLT2-25-02-Repetition\\Alex\\AlexRepetition\\AlexRepetition\\Program.cs",
-              "RelativeToolTip": "AlexRepetition\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T08:33:19.294Z",
+              "WhenOpened": "2025-02-25T12:10:35.885Z",
               "EditorCaption": ""
             }
           ]
